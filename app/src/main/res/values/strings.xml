@@ -1,0 +1,92 @@
+<resources>
+
+    <string name="property1name">PRAKASH HOMES  .</string>
+    <string name="property2name">PRAKASH HOMES  .</string>
+    <string name="property3name">PRAKASH HOMES</string>
+    <string name="property4name">PRAKASH HOMES</string>
+    <string name="property5name">PRAKASH HOMES</string>
+    <string name="property6name">PRAKASH HOMES</string>
+    <string name="property7name">PRAKASH HOMES</string>
+    <string name="property8name">PRAKASH HOMES</string>
+    <string name="property9name">PRAKASH HOMES</string>
+    <string name="property10name">PRAKASH HOMES</string>
+    <string name="property11name">PRAKASH HOMES</string>
+    <string name="property12name">PRAKASH HOMES</string>
+    <string name="property13name">PRAKASH HOMES</string>
+    <string name="property14name">PRAKASH HOMES</string>
+    <string name="property15name">PRAKASH HOMES</string>
+    <string name="property16name">PRAKASH HOMES</string>
+
+    <string name="property1subname">By Prakash Homes Ltd.</string>
+    <string name="property2subname">PRAKASH HOMES</string>
+    <string name="property3subname">PRAKASH HOMES</string>
+    <string name="property4subname">PRAKASH HOMES</string>
+    <string name="property5subname">PRAKASH HOMES</string>
+    <string name="property6subname">PRAKASH HOMES</string>
+    <string name="property7subname">PRAKASH HOMES</string>
+    <string name="property8subname">PRAKASH HOMES</string>
+    <string name="property9subname">PRAKASH HOMES</string>
+    <string name="property10subname">PRAKASH HOMES</string>
+    <string name="property11subname">PRAKASH HOMES</string>
+    <string name="property12subname">PRAKASH HOMES</string>
+    <string name="property13subname">PRAKASH HOMES</string>
+    <string name="property14subname">PRAKASH HOMES</string>
+    <string name="property15subname">PRAKASH HOMES</string>
+    <string name="property16subname">PRAKASH HOMES</string>
+    <string name="property17subname">PRAKASH HOMES</string>
+    <string name="property18subname">PRAKASH HOMES</string>
+    <string name="property19subname">PRAKASH HOMES</string>
+
+    <string name="app_name">Room Rental</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">Your Date of Birth Is: </string>
+    <string name="date_selected"></string>
+    <string name="title_activity_mainscreen">mainscreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="location1">Delhi</string>
+    <string name="location2">Delhi</string>
+    <string name="location3">Delhi</string>
+    <string name="location4">Delhi</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom2">bottom2</string>
+    <string name="title_activity_act2">act2</string>
+    <string name="itemlist">
+        <br><b><u>Floorings\n</u></b></br>
+        <br>Balcony : Anti Skid Ceramic Tiles.\n</br>
+        <br>Kitchen : Anti Skid Ceramic Tiles.\n</br>
+        <br>Living, Dining : Vitrified Tiles.\n</br>
+        <br>Master Bedroom : Vitrified Tiles.\n</br>
+        <br>Other Bedroom : Vitrified Tiles.\n</br>
+        <br>Toilet : Anti Skid Ceramic Tiles\n\n</br>
+
+        <br><b><u>Walls\n</u></b></br>
+        <br>Exterior : Grade Paint.\n</br>
+        <br>Interior : Pleasing Shades of Plastic Emulsion.\n</br>
+        <br>Kitchen : Ceramic Tiles 2 feet High above Counter.\n</br>
+        <br>Toilets : Ceramic Tiles up to 9 feet Height\n\n</br>
+
+        <br><b><u>Fittings\n</u></b></br>
+        <br>Main Door : High quality designers flush doors.\n</br>
+        <br>Internal Door : High quality designers flush doors.\n</br>
+        <br>Electrical : ISI Marg Copper Wiring with Modular Switches and Sockets.\n</br>
+        <br>Kitchen : Granite Counter, SS Bowl Sink with Drain Board.\n</br>
+        <br>Windows : Wood Windows with iron grill.\n</br>
+        <br>Toilets : EWC, Wash Basin and CP Fittings\n</br>
+
+
+
+    </string>
+    <string name="jaipur">
+         Jaipur is a major tourist destination in India forming a part of the Golden Triangle.
+        Visitor attractions include the Birla Auditorium, Albert Hall Museum, Hawa Mahal, Jal Mahal, City Palace, Amer Fort, Jantar Mantar, Nahargarh Fort, Jaigarh Fort, Birla Mandir, Galtaji, Govind Dev Ji Temple, Garh Ganesh Temple, Moti Dungri Ganesh Temple, Sanghiji Jain temple and the Jaipur Zoo.
+    </string>
+</resources>

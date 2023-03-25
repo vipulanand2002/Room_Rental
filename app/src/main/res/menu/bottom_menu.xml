@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Search"
+        android:icon="@drawable/searcharea"
+        android:id="@+id/firstFragment"/>
+    <item android:title="Trending"
+        android:icon="@drawable/trending"
+        android:id="@+id/secondFragment"/>
+    <item android:title="Property"
+        android:icon="@drawable/houses"
+        android:id="@+id/thirdFragment"/>
+    <item android:title="Listing Page"
+        android:icon="@drawable/listing"
+        android:id="@+id/fourthFragment"/>
+</menu>
